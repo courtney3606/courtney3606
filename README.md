@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!Just a girl tapping into Tech!>
 
 Find out more about me & feel free to connect with me here:
 
